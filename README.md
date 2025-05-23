@@ -57,29 +57,29 @@
   </thead>
   <tbody>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold; white-space: nowrap; text-decoration: none;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🎯_QuickAttend</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap; text-decoration: none;"><a href="https://github.com/Chetan99999/QuickAttend.git" target="_blank">🎯_QuickAttend</a></td>
       <td style="padding: 12px;">AI-powered attendance tracker using Python and OpenCV.</td>
-      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🔗_View_Repo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Chetan99999/QuickAttend.git" target="_blank">🔗_View_Repo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Personal-Portfolio" target="_blank">🌐_Personal_Portfolio</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Chetan99999/Personal-Portfolio" target="_blank">🌐_Personal_Portfolio</a></td>
       <td style="padding: 12px;">Fully responsive personal portfolio showcasing my work and skills.</td>
       <td style="padding: 12px; white-space: nowrap;"><a href="https://chetandev999.netlify.app" target="_blank">🔗_Live Demo</a></td>
     </tr>
     <tr style="background-color: #c8e6c9;">
-      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot" target="_blank">🤖_Healthcare_Chatbot</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Chetan99999/Healthcare_Chatbot" target="_blank">🤖_Healthcare_Chatbot</a></td>
       <td style="padding: 12px;">NLP-powered chatbot for healthcare assistance.</td>
-      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git" target="_blank">🔗_View_Repo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Chetan99999/Healthcare_Chatbot.git" target="_blank">🔗_View_Repo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Human-Pose-Estimation" target="_blank">🏃_Pose_Estimation</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Chetan99999/Human-Pose-Estimation" target="_blank">🏃_Pose_Estimation</a></td>
       <td style="padding: 12px;">Real-time human pose estimation using OpenCV, TensorFlow, and Streamlit.</td>
       <td style="padding: 12px; white-space: nowrap;"><a href="https://human-pose-estimation-app-chetandev999.streamlit.app/" target="_blank">🔗_Live_Demo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">♻️_Eco_Guardian_(WMS)</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Chetan99999/wms" target="_blank">♻️_Eco_Guardian_(WMS)</a></td>
       <td style="padding: 12px;">A smart waste management system enabling users to report waste, while admins track, manage, and optimize cleanup efficiently.</td>
-      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">🔗_View_Repo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Chetan99999/wms" target="_blank">🔗_View_Repo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
       <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://brightskillz.42web.io/" target="_blank">🎓_BrightSkillz</a></td>
